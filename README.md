@@ -1,5 +1,5 @@
 # Hey there! I'm Marcelo 👨‍💻
-Python Researcher by day, JavaScript developer by night. Or the other way around. Currently ¼ through my IS bachelor's degree.
+Python researcher by day, JavaScript developer by night. Or the other way around. Currently ¼ through my IS bachelor's degree.
 
 ## Tech Stack 📚
  - Python
