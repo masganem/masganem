@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hey there! I'm Marcelo 👨‍💻
+Python Researcher by day, JavaScript developer by night. Or the other way around. Currently ¼ through my IS bachelor's degree.
 
-<!--
-**masganem/masganem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack 📚
+ - Python
+ - JavaScript
+ - C and C++
+ - HTML and CSS
+ - SQL, MySQL and MongoDB
+## Big fan of
+ - Data Science
+ - Machine Learning
+ - [Material Design](https://material.io)
+ - [ESLint](https://eslint.org) and [Prettier](https://prettier.io)
+  
+  And also
+ - [GitHub's Student Pack](https://education.github.com/pack) (seriously)
+ - [Infinite Monkey Theorem](https://en.wikipedia.org/wiki/Infinite_monkey_theorem)
+ - The [Arctic Monkeys](https://en.wikipedia.org/wiki/Arctic_Monkeys)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Been listening to 🎵
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=masganmz&count=1)
