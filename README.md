@@ -3,8 +3,8 @@ Python researcher by day, JavaScript developer by night. Or the other way around
 
 ## Tech Stack 📚
  - Python
- - JavaScript
- - C and C++
+ - JavaScript, TypeScript
+ - C++
  - HTML and CSS
  - SQL, MySQL and MongoDB
 ## Big fan of
