@@ -2,10 +2,10 @@
 Python researcher by day, JavaScript developer by night. Or the other way around. Currently ½ through my CIS bachelor's degree. Reach out to me on [LinkedIn](https://www.linkedin.com/in/masganem/)!
 
 ## Tech Stack 📚
- - Python
- - JavaScript, TypeScript
- - C++
+ - JavaScript, TypeScript (React, Express)
  - HTML and CSS
+ - Python (Pandas, NumPy, Matplotlib)
+ - C++
  - SQL, MySQL and MongoDB
 ## Big fan of
  - Data Science
